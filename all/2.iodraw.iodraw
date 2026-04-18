@@ -10,8 +10,14 @@
         <mxCell id="niVM-Byu-Nk0oLrhp_5x-2" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="niVM-Byu-Nk0oLrhp_5x-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="niVM-Byu-Nk0oLrhp_5x-3" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="niVM-Byu-Nk0oLrhp_5x-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="560" as="sourcePoint" />
+            <mxPoint x="520" y="510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
