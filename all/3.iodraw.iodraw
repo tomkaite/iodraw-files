@@ -230,8 +230,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4iO1erSuNa_PZ33aD_5n-15" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;查看公告&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="820" width="30" height="190" as="geometry" />
+        <mxCell id="4iO1erSuNa_PZ33aD_5n-15" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;查看&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="800" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="4iO1erSuNa_PZ33aD_5n-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;修改与发布&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="810" width="30" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
