@@ -29,7 +29,7 @@
           <mxGeometry x="790" y="800" width="30" height="190" as="geometry" />
         </mxCell>
         <mxCell id="5rx9HxcbCNE1tdL6pyhq-13" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;修改与发布&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="800" width="30" height="190" as="geometry" />
+          <mxGeometry x="710" y="800" width="30" height="190" as="geometry" />
         </mxCell>
         <mxCell id="5rx9HxcbCNE1tdL6pyhq-15" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;修改与发布&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="800" width="30" height="190" as="geometry" />
@@ -132,7 +132,7 @@
             <mxPoint x="660" y="780" as="sourcePoint" />
             <mxPoint x="710" y="730" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="745" y="770" />
+              <mxPoint x="735" y="770" />
               <mxPoint x="695" y="770" />
             </Array>
           </mxGeometry>
