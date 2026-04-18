@@ -26,7 +26,7 @@
           <mxGeometry x="450" y="800" width="30" height="190" as="geometry" />
         </mxCell>
         <mxCell id="5rx9HxcbCNE1tdL6pyhq-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;查看失物招领信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="800" width="30" height="190" as="geometry" />
+          <mxGeometry x="640" y="800" width="30" height="190" as="geometry" />
         </mxCell>
         <mxCell id="5rx9HxcbCNE1tdL6pyhq-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;失物招领&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="570" width="30" height="170" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="750" y="800" width="30" height="190" as="geometry" />
         </mxCell>
         <mxCell id="5rx9HxcbCNE1tdL6pyhq-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;查看公告栏&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="820" width="30" height="190" as="geometry" />
+          <mxGeometry x="550" y="800" width="30" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
