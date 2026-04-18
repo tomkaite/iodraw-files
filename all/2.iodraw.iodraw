@@ -8,7 +8,7 @@
           <mxGeometry x="505" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5rx9HxcbCNE1tdL6pyhq-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;登录与注册&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="570" width="30" height="170" as="geometry" />
+          <mxGeometry x="230" y="570" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="5rx9HxcbCNE1tdL6pyhq-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;后台管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="570" width="30" height="170" as="geometry" />
@@ -52,7 +52,7 @@
         <mxCell id="5rx9HxcbCNE1tdL6pyhq-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;登录&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="800" width="30" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="5rx9HxcbCNE1tdL6pyhq-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;个人信息修改&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5rx9HxcbCNE1tdL6pyhq-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;注册&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="800" width="30" height="190" as="geometry" />
         </mxCell>
       </root>
