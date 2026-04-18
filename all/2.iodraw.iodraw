@@ -8,19 +8,22 @@
           <mxGeometry x="350" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5rx9HxcbCNE1tdL6pyhq-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;登录与注册&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="560" width="30" height="170" as="geometry" />
+          <mxGeometry x="220" y="570" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="5rx9HxcbCNE1tdL6pyhq-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;后台管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="560" width="30" height="170" as="geometry" />
+          <mxGeometry x="390" y="570" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="5rx9HxcbCNE1tdL6pyhq-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;公告栏&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="540" width="30" height="170" as="geometry" />
+          <mxGeometry x="550" y="570" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="5rx9HxcbCNE1tdL6pyhq-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;个人信息修改&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="800" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="5rx9HxcbCNE1tdL6pyhq-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;失物认领&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="800" width="30" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="5rx9HxcbCNE1tdL6pyhq-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;寻物信息发布&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="800" width="30" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
