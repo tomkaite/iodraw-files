@@ -28,6 +28,9 @@
         <mxCell id="bHRu5DCQ40A6DqrtUHrh-4" value="用户名、密码&lt;div&gt;等&lt;span style=&quot;background-color: initial;&quot;&gt;是否空&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="440" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="bHRu5DCQ40A6DqrtUHrh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bHRu5DCQ40A6DqrtUHrh-5" target="bHRu5DCQ40A6DqrtUHrh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bHRu5DCQ40A6DqrtUHrh-5" value="用户名、密码&lt;div&gt;等&lt;span style=&quot;background-color: initial;&quot;&gt;是否正确&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="600" width="120" height="120" as="geometry" />
         </mxCell>
@@ -39,6 +42,9 @@
         </mxCell>
         <mxCell id="bHRu5DCQ40A6DqrtUHrh-8" value="提示信息不正确" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bHRu5DCQ40A6DqrtUHrh-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
