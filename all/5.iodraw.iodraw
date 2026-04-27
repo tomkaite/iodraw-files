@@ -26,7 +26,7 @@
           <mxGeometry x="230" y="440" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bHRu5DCQ40A6DqrtUHrh-5" value="用户名、密码&lt;div&gt;等&lt;span style=&quot;background-color: initial;&quot;&gt;是否正确&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="710" width="120" height="120" as="geometry" />
+          <mxGeometry x="230" y="600" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bHRu5DCQ40A6DqrtUHrh-6" value="登录成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="900" width="120" height="60" as="geometry" />
