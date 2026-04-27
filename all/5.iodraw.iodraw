@@ -16,11 +16,14 @@
         <mxCell id="bHRu5DCQ40A6DqrtUHrh-2" value="输入用户、&lt;div&gt;密码等信息&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bHRu5DCQ40A6DqrtUHrh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bHRu5DCQ40A6DqrtUHrh-3" target="bHRu5DCQ40A6DqrtUHrh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bHRu5DCQ40A6DqrtUHrh-3" value="选择权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bHRu5DCQ40A6DqrtUHrh-4" value="用户名、密码&lt;div&gt;等&lt;span style=&quot;background-color: initial;&quot;&gt;是否空&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="500" width="120" height="120" as="geometry" />
+          <mxGeometry x="230" y="440" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bHRu5DCQ40A6DqrtUHrh-5" value="用户名、密码&lt;div&gt;等&lt;span style=&quot;background-color: initial;&quot;&gt;是否正确&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="710" width="120" height="120" as="geometry" />
