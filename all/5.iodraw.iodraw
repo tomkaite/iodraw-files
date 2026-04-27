@@ -13,8 +13,8 @@
         <mxCell id="bHRu5DCQ40A6DqrtUHrh-3" value="选择权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bHRu5DCQ40A6DqrtUHrh-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="450" width="80" height="80" as="geometry" />
+        <mxCell id="bHRu5DCQ40A6DqrtUHrh-4" value="用户名、密码等是否空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="500" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
