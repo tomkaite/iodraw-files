@@ -10,6 +10,12 @@
         <mxCell id="bHRu5DCQ40A6DqrtUHrh-2" value="输入用户、&lt;div&gt;密码等信息&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bHRu5DCQ40A6DqrtUHrh-3" value="选择权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bHRu5DCQ40A6DqrtUHrh-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
