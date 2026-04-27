@@ -43,8 +43,8 @@
         <mxCell id="bHRu5DCQ40A6DqrtUHrh-8" value="提示信息不正确" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bHRu5DCQ40A6DqrtUHrh-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="bHRu5DCQ40A6DqrtUHrh-14" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
